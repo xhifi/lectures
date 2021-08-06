@@ -1,0 +1,76 @@
+h1, h2, h3, h4, h5, h6{
+    font-weight: bold;
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 38px;
+}
+h3{
+    font-size: 28px;
+}
+
+/* Navigation Bar */
+ul{
+    text-align: center;
+}
+ul > li{
+    display: inline-block;
+}
+ul > li > a{
+    background-color: none;
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: black;
+    color: lightgrey;
+    border-radius: 4px;
+    font-size: 22px;
+}
+.link-hover{
+    transition: all 0.1s linear;
+}
+.link-hover:hover{
+    background-color: lightgrey;
+    color: grey;
+    border-radius: 8px;
+}
+.link-hover2:hover{
+    background-color: white;
+    color: black;
+}
+.cst-paragraph{
+    padding: 3px 12px;
+}
+.text-align-center{
+    text-align: center;
+}
+.border-round{
+    border-radius: 4px;
+}
+.border-round-more{
+    border-radius: 8px;
+}
+.cst-heading{
+    background-color: black;
+    color: lightgrey;
+    border-radius: 4px;
+    display: block;
+    padding: 25px 0px;
+    margin: 0px 125px;
+}
+.main{
+    background-color: lightgrey;
+    padding: 15px 35px;
+    margin: 0px 125px;
+}
+.cst-btn{
+    background-color: black;
+    color: lightgrey;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 32px;
+    padding: 5px 12px;
+    display: block;
+    margin: 0 auto;
+}
