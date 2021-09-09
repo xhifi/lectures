@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss"
+	],
+	"sourcesContent": [
+		"/* MAIN CSS SHEET */\n.btn{\n    border-radius: 0;\n}\n.spacer{\n    height: 50px;\n}"
+	],
+	"names": [],
+	"mappings": "AACA,AAAA,IAAI,AAAA,CACA,aAAa,CAAE,CAAC,CACnB,AACD,AAAA,OAAO,AAAA,CACH,MAAM,CAAE,IAAI,CACf"
+}

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="499.99899"
+   height="85.551003"
+   viewBox="0 0 132.2914 22.635369"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo_clr.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     height="85.551px"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="220.97087"
+     inkscape:cy="-10.960155"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10386">
+      <rect
+         style="fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:0.242819"
+         id="rect10388"
+         width="23.506001"
+         height="24.506159"
+         x="90.617912"
+         y="67.940582" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10410"
+       x="-0.010524994"
+       y="-0.01395581"
+       width="1.02105"
+       height="1.0279116">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11883031"
+         id="feGaussianBlur10412" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10416">
+      <rect
+         style="fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:0.242819"
+         id="rect10418"
+         width="23.506001"
+         height="24.506159"
+         x="90.088745"
+         y="67.411415" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter19064"
+       x="-0.006642079"
+       y="-0.062067863"
+       width="1.0132842"
+       height="1.1241357">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.31684744"
+         id="feGaussianBlur19066" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g19077"
+       transform="matrix(0.92365769,0,0,0.92366041,-43.376452,-90.613931)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.6942px;line-height:1.25;font-family:sans-serif;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.417355;filter:url(#filter19064)"
+         x="74.686668"
+         y="116.84201"
+         id="text19044"><tspan
+           sodipodi:role="line"
+           id="tspan19042"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Perpetua Titling MT';-inkscape-font-specification:'Perpetua Titling MT Bold';fill:#000000;stroke-width:0.417355"
+           x="74.686668"
+           y="116.84201"><tspan
+   style="fill:#000000;fill-opacity:1"
+   id="tspan19040">RE</tspan>IMAGINED</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.6942px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.417355"
+         x="74.157501"
+         y="116.31284"
+         id="text1904"><tspan
+           sodipodi:role="line"
+           id="tspan1902"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Perpetua Titling MT';-inkscape-font-specification:'Perpetua Titling MT Bold';fill:#ffffff;stroke-width:0.417355"
+           x="74.157501"
+           y="116.31284"><tspan
+   style="fill:#a02c2c;fill-opacity:1"
+   id="tspan16792">RE</tspan>IMAGINED</tspan></text>
+      <rect
+         style="fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:0.242819"
+         id="rect9431"
+         width="23.506001"
+         height="24.506159"
+         x="46.961662"
+         y="98.103081" />
+      <path
+         d="m 99.80148,80.361215 -0.562896,0.150829 1.511476,5.640902 c 0.17971,0.670681 0.41429,1.14695 0.70375,1.428805 0.28733,0.273871 0.58755,0.420203 0.90066,0.438996 0.31096,0.01081 0.70811,-0.03999 1.19145,-0.152374 l 0.0866,0.323364 -8.287692,2.220681 -0.09306,-0.347318 c 0.926178,-0.248169 1.465384,-0.615144 1.617619,-1.100927 0.152234,-0.485783 0.136357,-1.072 -0.04763,-1.758649 L 93.510026,74.845839 C 93.283251,73.999504 92.952205,73.450671 92.516887,73.19934 92.07943,72.940025 90.658941,72.913059 89.892448,73.11844 l 0.345429,-0.347318 9.530027,-2.451737 c 1.208796,-0.31098 2.313816,-0.418883 3.324576,-0.28751 1.01077,0.131371 1.84767,0.476199 2.51072,1.034484 0.66305,0.558285 1.11331,1.280557 1.35078,2.166814 0.19254,0.718586 0.21197,1.397978 0.0583,2.038175 -0.15365,0.640197 -0.44183,1.209472 -0.86454,1.707827 -0.41473,0.496215 -0.91179,0.924639 -1.4912,1.285271 0.96145,0.298623 2.0059,1.002879 3.13337,2.112769 0,0 4.18991,3.706043 6.97286,2.7706 0.52402,0.51852 0.0366,1.154348 0.43199,1.416375 0.39325,0.254043 0.72063,0.405935 0.98212,0.455675 0.25935,0.04175 0.53011,0.04622 0.81228,0.01341 l -2.86524,0.347318 -5.6888,1.52431 c -0.81835,-0.850426 -1.45439,-1.531479 -1.90812,-2.043158 -1.43634,-1.591925 -2.46636,-2.689418 -3.09005,-3.292477 -0.62369,-0.603062 -1.20988,-1.002235 -1.75856,-1.197519 -0.54067,-0.197427 -1.16631,-0.200941 -1.876906,-0.01054 z m -1.854341,-8.501381 -0.958118,0.256727 1.986419,7.413416 0.80242,-0.215008 c 1.37331,-0.367977 2.31956,-0.972385 2.83876,-1.813223 0.51706,-0.848822 0.60979,-1.892015 0.27819,-3.12958 -0.20538,-0.766492 -0.53037,-1.372571 -0.97498,-1.818237 -0.43876,-0.455791 -0.99499,-0.743185 -1.66868,-0.862183 -0.665721,-0.121134 -1.433724,-0.0651 -2.304011,0.168088 z"
+         style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:'Perpetua Titling MT';-inkscape-font-specification:'Perpetua Titling MT Bold';mix-blend-mode:normal;fill:#000000;stroke-width:0.634826;filter:url(#filter10410)"
+         id="path10390"
+         sodipodi:nodetypes="ccsccccccscccccsssssccccccccccscscsccscsccs"
+         clip-path="url(#clipPath10416)"
+         transform="translate(-43.127083,30.691667)" />
+      <path
+         d="m 99.80148,80.361215 -0.562896,0.150829 1.511476,5.640902 c 0.17971,0.670681 0.41429,1.14695 0.70375,1.428805 0.28733,0.273871 0.58755,0.420203 0.90066,0.438996 0.31096,0.01081 0.70811,-0.03999 1.19145,-0.152374 l 0.0866,0.323364 -8.287692,2.220681 -0.09306,-0.347318 c 0.926178,-0.248169 1.465384,-0.615144 1.617619,-1.100927 0.152234,-0.485783 0.136357,-1.072 -0.04763,-1.758649 L 93.510026,74.845839 C 93.283251,73.999504 92.952205,73.450671 92.516887,73.19934 92.07943,72.940025 90.658941,72.913059 89.892448,73.11844 l 0.345429,-0.347318 9.530027,-2.451737 c 1.208796,-0.31098 2.313816,-0.418883 3.324576,-0.28751 1.01077,0.131371 1.84767,0.476199 2.51072,1.034484 0.66305,0.558285 1.11331,1.280557 1.35078,2.166814 0.19254,0.718586 0.21197,1.397978 0.0583,2.038175 -0.15365,0.640197 -0.44183,1.209472 -0.86454,1.707827 -0.41473,0.496215 -0.91179,0.924639 -1.4912,1.285271 0.96145,0.298623 2.0059,1.002879 3.13337,2.112769 0,0 4.18991,3.706043 6.97286,2.7706 0.52402,0.51852 0.0366,1.154348 0.43199,1.416375 0.39325,0.254043 0.72063,0.405935 0.98212,0.455675 0.25935,0.04175 0.53011,0.04622 0.81228,0.01341 l -2.86524,0.347318 -5.6888,1.52431 c -0.81835,-0.850426 -1.45439,-1.531479 -1.90812,-2.043158 -1.43634,-1.591925 -2.46636,-2.689418 -3.09005,-3.292477 -0.62369,-0.603062 -1.20988,-1.002235 -1.75856,-1.197519 -0.54067,-0.197427 -1.16631,-0.200941 -1.876906,-0.01054 z m -1.854341,-8.501381 -0.958118,0.256727 1.986419,7.413416 0.80242,-0.215008 c 1.37331,-0.367977 2.31956,-0.972385 2.83876,-1.813223 0.51706,-0.848822 0.60979,-1.892015 0.27819,-3.12958 -0.20538,-0.766492 -0.53037,-1.372571 -0.97498,-1.818237 -0.43876,-0.455791 -0.99499,-0.743185 -1.66868,-0.862183 -0.665721,-0.121134 -1.433724,-0.0651 -2.304011,0.168088 z"
+         style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:'Perpetua Titling MT';-inkscape-font-specification:'Perpetua Titling MT Bold';fill:#ffffff;stroke-width:0.634826"
+         id="path9280"
+         sodipodi:nodetypes="ccsccccccscccccsssssccccccccccscscsccscsccs"
+         clip-path="url(#clipPath10386)"
+         transform="translate(-43.65625,30.1625)" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+# site settings
+title: Some Site
+desription: 
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# build settings
+markdown: kramdown
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md
+
+sass:
+  sass_dir: public/sass
+  style:    compressed
